@@ -6,7 +6,7 @@ main = "_worker.js"
 compatibility_date = "2023-05-26"
 
 [vars]
-UUID = "d342d11e-d424-4583-b36e-524ab1f0afa4"
+UUID = "9050d5f2-4ea3-4eb7-aaab-c54fb590cf3e"
 # PROXYIP = "1.2.3.4"
 # DNS_RESOLVER_URL = "https://cloudflare-dns.com/dns-query"
 # NODE_ID = "1"
